@@ -1,1 +1,3 @@
 # age-group-prediction-model
+The National Health and Nutrition Examination Survey (NHANES) is a nationally representative health study conducted by the CDC’s National Center for Health Statistics which uniquely combines interviews, physical exams, and lab tests to assess the health and nutritional status of U.S. children and adults. 
+This dataset is a subset, focused part of the NHANES study by CDC, which looks at health and nutrition trends in the U.S. It has 6,287 entries and 7 key features: covering things like body stats, lifestyle, and lab results. The model predicts if a person is a senior (65+) or not.
